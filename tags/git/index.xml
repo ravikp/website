@@ -38,6 +38,7 @@
 &lt;li&gt;You should clearly have mechanism&amp;rsquo;s in place to differentiate artifacts from old and new pipelines.&lt;/li&gt;
 &lt;li&gt;Ensure you run all your tests against the generated artifacts.&lt;/li&gt;
 &lt;li&gt;If your test results are acceptable then open the gates for developers to commit into new repository.&lt;/li&gt;
+&lt;li&gt;Finally lock down your old repository.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
