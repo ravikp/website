@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Ravi Kumar Pasumarthy</title>
-    <link>https://example.org/post/index.xml</link>
+    <link>http://www.ravikumar.io/post/index.xml</link>
     <description>Recent content in Post-rsses on Ravi Kumar Pasumarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Mon, 17 Oct 2016 15:07:01 +0800</lastBuildDate>
-    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.ravikumar.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>svn to git</title>
-      <link>https://example.org/svn-to-git</link>
+      <link>http://www.ravikumar.io/svn-to-git</link>
       <pubDate>Mon, 17 Oct 2016 15:07:01 +0800</pubDate>
       
-      <guid>https://example.org/svn-to-git</guid>
+      <guid>http://www.ravikumar.io/svn-to-git</guid>
       <description>
 
 &lt;h5 id=&#34;guidelines-to-migrate&#34;&gt;Guidelines to migrate:&lt;/h5&gt;
